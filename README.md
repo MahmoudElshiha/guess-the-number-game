@@ -16,6 +16,10 @@ This is a simple "Guess The Number" game built with HTML, CSS, and JavaScript.
 3. Your score decreases with each wrong guess.
 4. Click "Again!" to restart the game.
 
+## Live Demo
+
+You can play the game live [here](https://mahmoudelshiha.github.io/guess-the-number-game/).
+
 ## Setup
 
 1. Clone the repository: `git clone <repository-url>`
