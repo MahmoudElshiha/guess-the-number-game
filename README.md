@@ -22,7 +22,7 @@ You can play the game live [here](https://mahmoudelshiha.github.io/guess-the-num
 
 ## Setup
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/MahmoudElshiha/guess-the-number-game.git`
 2. Open `index.html` in your web browser to play the game.
 
 ## Screenshot
